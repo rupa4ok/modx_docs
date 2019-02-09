@@ -8,3 +8,5 @@
 'depth' => '1',
 'limit' => '8'
 ])}
+
+Шаблон product.tpl
